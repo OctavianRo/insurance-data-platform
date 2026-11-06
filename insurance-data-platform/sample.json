@@ -1,0 +1,6 @@
+[
+ {"policy_id":"P001","entity":"IE","currency":"EUR","as_of":"2026-10-31","reserve":"1200.50","customer_id":"synthetic-001"},
+ {"policy_id":"P002","entity":"IE","currency":"EUR","as_of":"2026-10-31","reserve":"800.25","customer_id":"synthetic-002"},
+ {"policy_id":"P003","entity":"UK","currency":"GBP","as_of":"2026-10-31","reserve":"450.00","customer_id":"synthetic-003"},
+ {"policy_id":"P004","entity":"IE","currency":"EUR","as_of":"2026-10-31","reserve":"-20.00","customer_id":"synthetic-004"}
+]
